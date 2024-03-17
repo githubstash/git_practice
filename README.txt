@@ -34,11 +34,13 @@ seb		substitute a string in a file, like find and replace
 
 git init	sets up a new local repository.
 
-git status	compares files in working dir to files in [speacial space name?]
+git status	compares files in working dir to files in the staging area.
 
-git add		adds files too [special space name?]
+git add		adds files to the staging area
 
-git commit -m "msg txt"		commits changes to local git
+git diff	shows the difference between the working dir and staging area 
+
+git commit -m "msg txt"  commits staging area to local git with a description message
 
 git push	pushes changes to github
 
