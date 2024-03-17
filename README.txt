@@ -1,1 +1,37 @@
-Hello Git and Github
+Helpful Bash commands:
+	
+pwd		present working directorty or print working directory.
+
+ls		lists files and folders in working directory.
+
+ls -a		lists all files and folders, including hidden files, in working directory.
+
+ls -l		lists files in long format
+
+ls -t		list files in order of last modified.
+
+cd		change current working directory.
+
+cd ..		move up to parent directory.
+
+mkdir		make new dir
+
+mv		move and or rename a file or folder
+
+cp		copy a file
+
+cp -r		copy a folder including all files
+
+nano		opens a file in a text editor
+
+grep		search files for a string
+
+seb		substitute a string in a file, like find and replace
+		~ seb "s/snow/rain/g" filename.txt     // outputs changes
+		~ seb -i "s/snow/rain/g" filename.txt  // writes to file
+
+git init	sets up a new local repository.
+
+ 
+		
+
