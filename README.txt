@@ -22,6 +22,8 @@ cp		copy a file
 
 cp -r		copy a folder including all files
 
+wc		outputs word count of a file
+
 nano		opens a file in a text editor
 
 grep		search files for a string
@@ -31,6 +33,15 @@ seb		substitute a string in a file, like find and replace
 		~ seb -i "s/snow/rain/g" filename.txt  // writes to file
 
 git init	sets up a new local repository.
+
+git status	compares files in working dir to files in [speacial space name?]
+
+git add		adds files too [special space name?]
+
+git commit -m "msg txt"		commits changes to local git
+
+git push	pushes changes to github
+
 
  
 		
