@@ -9,12 +9,14 @@ Command | Description
 `git diff`			| Difference between the working dir and staging area. 
 `git commit -m "msg txt"`  	| Commits staging area to local git with a message.
 `git push`			| Pushes staging files to github.
+`git push origin branch-name`	| Pushes branch to remote origin.
 `git pull`			| Pulls remote updates from main repository.
 `git branch`			| Lists all branches & displays selected branch.
 `git branch -d branch-name`	| Deletes branch after merge.
 `git branch -D branch-name`	| Deletes branch when not merged & not needed.
 `git checkout branch-name`	| Switch to specified branch-name.
 `git stash`			| Store a local copy of project without pushing code. 
+`git clone`			| Copy a repository to your local machine.
 
 
 ###### [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
