@@ -1,4 +1,4 @@
-######[Back to menu](../../README.md)
+###### [Back to menu](../../README.md)
 
 ## Git Commands
 Command | Description
