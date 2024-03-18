@@ -1,3 +1,5 @@
+###### [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## Helpful Bash commands:
 
 `pwd`		present working directorty or print working directory.
