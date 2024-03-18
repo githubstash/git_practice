@@ -24,8 +24,8 @@ Command | Description
 `git init`	| Sets up a new local repository.
 `git status`| Compares files in working dir to files in the staging area.
 `git add`	| Adds files to the staging area
-`git diff`	| Shows the difference between the working dir and staging area 
-`git commit -m "msg txt"`  | Commits staging area to local git with a description message
+`git diff`	| Difference between the working dir and staging area 
+`git commit -m "msg txt"`  | Commits staging area to local git with a message
 `git push`	| Pushes staging files to github.
 
 
