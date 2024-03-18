@@ -24,6 +24,7 @@ Command | Description
 
 
 ## Git Commands
+Command | Description
 --- | ---
 `git init`	| Sets up a new local repository.
 `git status`| Compares files in working dir to files in the staging area.
