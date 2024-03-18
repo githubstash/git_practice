@@ -34,8 +34,6 @@ Command | Description
 `git diff`			| Difference between the working dir and staging area 
 `git commit -m "msg txt"`  	| Commits staging area to local git with a message
 `git push`			| Pushes staging files to github.
-
-
- 
-		
-
+`git branch`			| Lists all branches & displays selected branch
+`git branch -d <branch-name>`	| Deletes branch after merge
+`git branch -D <branch-name>`	| Deletes branch when not merged & not needed.
