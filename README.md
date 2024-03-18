@@ -19,8 +19,8 @@ Command | Description
 `nano`		| Opens a file in a text editor
 `grep`		| Search files for a string
 `seb`		| Substitute a string in a file, like find and replace
-			| `*seb "s/snow/rain/g" filename.txt*`    outputs changes
-			| `*seb -i "s/snow/rain/g" filename.txt*` writes to file
+`seb` 		| `*seb "s/snow/rain/g" filename.txt*`    outputs changes
+`seb` 		| `*seb -i "s/snow/rain/g" filename.txt*` writes to file
 `git init`	| Sets up a new local repository.
 `git status`| Compares files in working dir to files in the staging area.
 `git add`	| Adds files to the staging area
