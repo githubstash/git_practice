@@ -1,6 +1,6 @@
 ###### [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## Helpful Bash commands:
+## Helpful Bash Commands:
 
 Command | Description 
 --- | ---
@@ -21,6 +21,10 @@ Command | Description
 `seb`		| Substitute a string in a file, like find and replace
 `seb` 		| `*seb "s/snow/rain/g" filename.txt*`    outputs changes
 `seb` 		| `*seb -i "s/snow/rain/g" filename.txt*` writes to file
+
+
+## Git Commands
+--- | ---
 `git init`	| Sets up a new local repository.
 `git status`| Compares files in working dir to files in the staging area.
 `git add`	| Adds files to the staging area
