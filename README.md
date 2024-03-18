@@ -37,7 +37,7 @@ Command | Description
 `git branch -d branch-name`	| Deletes branch after merge.
 `git branch -D branch-name`	| Deletes branch when not merged & not needed.
 `git checkout branch-name`	| Switch to specified branch-name.
-
+`git stash`			| Store a local copy of project without pushing code. 
 
 
 ###### [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
